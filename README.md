@@ -1,3 +1,21 @@
+the links :
+figma:
+https://www.figma.com/design/uGFtV8Jcs5FD52LDU8ESxv/Untitled?node-id=0-1&node-type=canvas&t=0mb4Vv9F04gOYsxK-0
+
+class digram:
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=UML%20Class%20DiagramV.drawio#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22%20id%3D%22zDSKSifyWvZF3mbMs29R%22%3EdZHBDsIgDIafhjuDaLzPqRdPO3gmow4Sti4MM%2FTp3QI4yfRE%2Bfr%2FlLaEl50%2FWzGoK0owhFHpCT8Sxgq6o%2FOxkGcge1YE0Foto2gFtX5Bckb60BLGTOgQjdNDDhvse2hcxoS1OOWyO5q86iBa2IC6EWZLb1o6FeghtbXwC%2BhWpcoFjZlOJHEEoxISpy%2FEK8JLi%2BhC1PkSzDK8NJfgO%2F3Jfj5moXc%2FDHOwvj1fsg3x6g0%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E#%7B%22pageId%22%3A%22zDSKSifyWvZF3mbMs29R%22%7D
+
+use case digram:
+https://lucid.app/lucidchart/56ca0f5c-4eb7-4e79-b0f6-14d190e348cf/edit?invitationId=inv_1829aead-4e3d-4d87-a7c0-3da38e9f117b&page=0_0#
+
+
+
+
+
+
+
+
+
 
 
 
